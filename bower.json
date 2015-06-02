@@ -1,0 +1,25 @@
+{
+  "name": "mui-input",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nichoth/mui-input",
+  "authors": [
+    "nichoth <nichoth@gmail.com>"
+  ],
+  "description": "Material UI text input made with sass",
+  "main": "_mui-input.scss",
+  "keywords": [
+    "sass",
+    "material",
+    "input",
+    "text",
+    "field"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
