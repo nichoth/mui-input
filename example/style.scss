@@ -1,0 +1,5 @@
+@import "../_mui-input";
+
+.my-input {
+  @extend %mui-input;
+}
