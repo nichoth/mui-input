@@ -1,6 +1,6 @@
 #mui input
 
-Material-esque text input implemented with sass.
+Material-esque text input implemented with sass, no javascript.
 
 ```html
 <div class="mui-input" style="width:50%">
